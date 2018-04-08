@@ -17,7 +17,7 @@ const Component = ({ postList }) => (
       postList.items === null
         ? <Loading>Loading ...</Loading>
         : postList.items.map(list => (
-          <LazyLoad once key={list.guid} height={300} offset={10}>
+          <LazyLoad once key={list.guid} height={500} offset={10}>
             <Link
               key={list.id}
               to={{
