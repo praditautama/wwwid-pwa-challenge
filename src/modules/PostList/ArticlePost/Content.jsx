@@ -147,7 +147,7 @@ const ContentStyled = styled.div`
 `;
 
 const Content = ({ location }) => (
-  <ContentStyled dangerouslySetInnerHTML={{ __html: truncateString(location.state.content) }} />
+  <ContentStyled dangerouslySetInnerHTML={{ __html: truncateString(location.state.content.replace('img ', 'img alt="image" ')) }} />
 );
 
 Content.propTypes = {

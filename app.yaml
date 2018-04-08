@@ -6,6 +6,8 @@ handlers:
   static_files: build/index.html
   upload: build/index.html
   secure: always
+  expiration: "7d"
 - url: /
   static_dir: build
   secure: always
+  expiration: "7d"

@@ -41,7 +41,7 @@ const Author = styled.p`
 `;
 
 const Time = styled.time`
-  color: #999;
+  color: #000;
   display: block;
   font-size: 11px;
 `;

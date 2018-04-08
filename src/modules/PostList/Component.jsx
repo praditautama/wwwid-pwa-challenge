@@ -42,7 +42,7 @@ const Component = ({ postList }) => (
                 <Time>
                   {list.pubDate}
                 </Time>
-                <Image src={list.thumbnail} />
+                <Image src={list.thumbnail} alt="image" />
                 <Excerpt
                   dangerouslySetInnerHTML={{ __html: getFirstParagraph(list.description) }}
                 />
