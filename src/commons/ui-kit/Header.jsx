@@ -44,7 +44,7 @@ const Header = ({ location, history }) => {
           onKeyPress={() => history.goBack()}
           role="presentation"
         />
-        <h4 style={styleH4}>WWWID</h4>
+        <h4 style={styleH4}>Tech in Asia</h4>
       </header>
     </div>
   );

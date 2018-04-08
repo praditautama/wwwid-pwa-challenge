@@ -6,7 +6,7 @@ import ErrorBoundary from '../commons/errors/ErrorBoundary';
 
 const Home = state => (
   <React.Fragment>
-    <Header {...state} />
+    <Header />
     <ErrorBoundary>
       <PostList />
     </ErrorBoundary>
