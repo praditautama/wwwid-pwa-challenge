@@ -1,0 +1,58 @@
+{
+  "name": "WWWID Challenge",
+  "short_name": "WWWID",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FF0000",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0"
+    },
+    {
+      "src": "https://00e9e64bac6bb4f28ad8ebcb2f0e1c6660861c5155a97cf33e-apidata.googleusercontent.com/download/storage/v1/b/general-bucket-praditautama/o/indonesia.png?qk=AD5uMEsL-3qriT0jrkxdHKq_KhcFTxQWtpgrb639V-RioSeOkowaw3aAY3fTwkSvWLBSiTg9eifN77hI2Ql4loHlg2mMfRrYjLTuTnHjp4J9pBt6yGlO58lgu-B1f6choYdf3a8V6za89rregLXc6lGGxoGGBX8IUP9Yp0jQqs6P0ufnN3kinYoH8fYctXnHtynSwxgFj8N3Gx4YoHDDm4El13GywroEHoNRqfR9BA8ZyOz7VgorSp_j1D8-rQXj8eB8Ml-aIQ-p8XJPcKwCNrNedGRd5516UHhlHogowLFA0fiMEPmt0TapbFhN3ZsS5cwOhu5OA-A-9B8PdR7iNabv2Kf1ErL_JWe1YwrGyEB__z1M_yC-TMXp6_RsHNSTPKUcn0d2i6rkpBhr_vk-lKsFmGKuyjZqFbeLyftgo5jFCoOX-xbYiqX4ZUWoabqPxkG5FNLqms4Kh9429Gn-PuqfFcm2hmzCAUzPkJCTy6zmq-WDBp2zyfIBX_t6lmagQCTDYhDzk3Y5wXEjc4o87dfx0Z85UVM3W7yuKL2mBscSXBxQT28H_CSNO-XxrPChvSi8XJYUGklXvWLvqVhY5npvND2b_OQTD8fkeuDyQra_p70lCeckccmMwaf1drISxM2O5TkYsIfmVLxJ5iCn7x5CdIFIPTBQWuBzzqybJ1JQ0MOlfgiV-CcZR1QiLFiYviTz96p0aKzzfnY60NWVbsVzfOGLlHYky9w0ewEeoE4k5PyD8lj0pQb2OOoLZmUN21GpCawt8qzX",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ]
+}
